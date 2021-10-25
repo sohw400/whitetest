@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/whitetest/static/css/main.92d85df4.chunk.css",
+    "main.js": "/whitetest/static/js/main.9005dcf8.chunk.js",
+    "main.js.map": "/whitetest/static/js/main.9005dcf8.chunk.js.map",
+    "runtime-main.js": "/whitetest/static/js/runtime-main.5d208c2c.js",
+    "runtime-main.js.map": "/whitetest/static/js/runtime-main.5d208c2c.js.map",
+    "static/js/2.fa311998.chunk.js": "/whitetest/static/js/2.fa311998.chunk.js",
+    "static/js/2.fa311998.chunk.js.map": "/whitetest/static/js/2.fa311998.chunk.js.map",
+    "static/js/3.8dfcd814.chunk.js": "/whitetest/static/js/3.8dfcd814.chunk.js",
+    "static/js/3.8dfcd814.chunk.js.map": "/whitetest/static/js/3.8dfcd814.chunk.js.map",
+    "index.html": "/whitetest/index.html",
+    "static/css/main.92d85df4.chunk.css.map": "/whitetest/static/css/main.92d85df4.chunk.css.map",
+    "static/js/2.fa311998.chunk.js.LICENSE.txt": "/whitetest/static/js/2.fa311998.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d208c2c.js",
+    "static/js/2.fa311998.chunk.js",
+    "static/css/main.92d85df4.chunk.css",
+    "static/js/main.9005dcf8.chunk.js"
+  ]
+}
